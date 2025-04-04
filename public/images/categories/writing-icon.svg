@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="64" cy="64" r="60" fill="#FFFFFF" fill-opacity="0.9"/>
+  <g transform="translate(32, 32)">
+    <!-- Writing pad -->
+    <rect x="8" y="8" width="48" height="56" rx="4" stroke="#4A421B" stroke-width="4" fill="none"/>
+    <!-- Text lines -->
+    <line x1="16" y1="24" x2="48" y2="24" stroke="#4A421B" stroke-width="4" stroke-linecap="round"/>
+    <line x1="16" y1="36" x2="48" y2="36" stroke="#4A421B" stroke-width="4" stroke-linecap="round"/>
+    <line x1="16" y1="48" x2="36" y2="48" stroke="#4A421B" stroke-width="4" stroke-linecap="round"/>
+    <!-- Pen tip -->
+    <path d="M44 0 L52 8 L44 16 L36 8 Z" fill="#4A421B"/>
+  </g>
+</svg>

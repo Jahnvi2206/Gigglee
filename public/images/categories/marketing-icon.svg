@@ -1,0 +1,14 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="64" cy="64" r="60" fill="#FFFFFF" fill-opacity="0.9"/>
+  <g transform="translate(32, 32)">
+    <!-- Marketing chart and elements -->
+    <path d="M0 64 L20 40 L40 48 L60 20" stroke="#1B4A1F" stroke-width="4" fill="none"/>
+    <!-- Growth arrow -->
+    <path d="M48 32 L60 20 L48 20" stroke="#1B4A1F" stroke-width="4" fill="none"/>
+    <!-- Social media icons -->
+    <circle cx="12" cy="12" r="8" stroke="#1B4A1F" stroke-width="4" fill="none"/>
+    <circle cx="52" cy="12" r="8" stroke="#1B4A1F" stroke-width="4" fill="none"/>
+    <!-- Connection lines -->
+    <path d="M20 12 L44 12" stroke="#1B4A1F" stroke-width="4" fill="none"/>
+  </g>
+</svg>

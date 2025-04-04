@@ -1,0 +1,26 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#1A1A1A"/>
+  <!-- Grid of colorful faces -->
+  <g transform="translate(50, 50)">
+    <!-- Top row -->
+    <rect x="0" y="0" width="133" height="133" fill="#4A90E2"/>
+    <rect x="133" y="0" width="133" height="133" fill="#50E3C2"/>
+    <rect x="266" y="0" width="133" height="133" fill="#B8E986"/>
+    
+    <!-- Middle row -->
+    <rect x="0" y="133" width="133" height="133" fill="#F5A623"/>
+    <rect x="133" y="133" width="133" height="133" fill="#D0021B"/>
+    <rect x="266" y="133" width="133" height="133" fill="#9013FE"/>
+    
+    <!-- Bottom row -->
+    <rect x="0" y="266" width="133" height="133" fill="#7ED321"/>
+    <rect x="133" y="266" width="133" height="133" fill="#BD10E0"/>
+    <rect x="266" y="266" width="133" height="133" fill="#4A90E2"/>
+  </g>
+  
+  <!-- Logo and text -->
+  <g transform="translate(150, 420)">
+    <text x="100" y="0" font-family="Arial" font-size="48" fill="white" text-anchor="middle">gig-gle</text>
+    <text x="100" y="30" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Because everyone deserves a gig</text>
+  </g>
+</svg>
